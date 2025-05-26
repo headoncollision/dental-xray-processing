@@ -72,8 +72,10 @@ This has been implemented in `section 5` of the notebook.
 ![](figures/noise.png)
 *Gaussian Noise of the images*
 
-### 4.2 Visual Comparisons
+### 4.4 Visual Comparisons
 
+![](figures/original_dcim_image.png)
+*Original DCIM Image*
 ![](figures/comparisons.png)
 *Visual Comparison of the images*
 
