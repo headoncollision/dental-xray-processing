@@ -74,8 +74,12 @@ This has been implemented in `section 5` of the notebook.
 
 ### 4.4 Visual Comparisons
 
+This is section shows the comparison of the images. The initial DCIM image is shown below. The following figure shows the preprocsessed and saved DCIM image, tagged as "Original", with side by side comparisons of the processing of those images using different pipelines implemented in the notebook.
+
 ![](figures/original_dcim_image.png)
-*Original DCIM Image*
+<br>
+*Plotted DCIM Image*
+<br>
 ![](figures/comparisons.png)
 *Visual Comparison of the images*
 
